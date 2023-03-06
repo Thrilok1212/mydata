@@ -1,0 +1,9 @@
+{
+	"name": "copy12122",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36f477cb-0001-455a-8f79-fc9de740bb97",
+		"tenantId": "c74028b3-ae43-4d4a-80a8-66577014d773"
+	}
+}
